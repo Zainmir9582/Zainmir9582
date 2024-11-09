@@ -1,5 +1,5 @@
 const Projects = () => (
-    <section id="projects" className="p-8">
+    <section id="projects" className="p-8 bg-white">
       <h2 className="text-2xl font-bold text-gray-800">Projects</h2>
       <div className="flex flex-col md:flex-row space-x-4">
   <div className="mt-4 flex-1">
