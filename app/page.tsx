@@ -5,7 +5,7 @@ import Education from '@/Components/Education';
 import Hero from '@/Components/Hero';
 import Skills from '@/Components/Skills';
 import Experience from '@/Components/Experience';
-import Projects from '@/Components/Projects';
+import Projects from '@/Components/Project';
 import Contact_Link from '@/Components/Contact_Link'
 export default function Home() {
   return (
