@@ -21,13 +21,6 @@ const Projects = () => (
 A key feature of the LMS is its real-time inventory tracking, which displays the availability status of all books, indicating which titles are available and which are currently checked out. It also provides detailed information on each borrowed book, including who has borrowed it and the duration of the loan, ensuring that users and staff can track due dates and manage renewals effectively.
 
 This system is designed to be user-friendly and adaptable for libraries of all sizes, enhancing operational efficiency and providing a clear, organized view of library resources. The LMS helps reduce manual work, improves resource management, and makes it easy for libraries to monitor and control their collections and borrowing activities.
-
-
-
-
-
-
-
     </p>
   </div>
 </div>
